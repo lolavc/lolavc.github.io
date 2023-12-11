@@ -2,9 +2,9 @@
 # Portafolio
 👋 Hi, I’m @lolavc.
 👀 I’m interested in applying statistics and data analysis to health and forensics.
-📈 I’m currently studing a MSc in Applied statistics in Data Science
+📈 I’m currently studying a MSc in Applied statistics in Data Science
 🔭 I’m looking to collaborate on projects in these areas.
-📫 You can contact me on [Linkedin:] (in/loliett-valdes-castillo-3a1801254)
+📫 You can contact me on Linkedin: www.in/loliett-valdes-castillo-3a1801254
 >
 ## Quantitative risk assessment analysis in R Project
 A quantitative risk assessment analysis was conducted to determine the risk of importing Echinococcus multilocularis (EM) into Great Britain (GB) from dogs returning from a 2-week holiday in France. It is carried out a risk assessment focused on the influence of key parameters: the probability of a dog becoming infected whilst it is on holiday, the probability that dog owners do not treat their dogs prior to returning to GB and the probability that treatment time is outside the window period, considering a regulation that indicates that treatment must have been given between 24 to 120 hours before re-entering GB.
