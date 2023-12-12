@@ -7,8 +7,8 @@
 >
 ### [Quantitative risk assessment analysis in R Project](https://github.com/lolavc/risk_analysis)
 A quantitative risk assessment analysis was conducted to determine the risk of importing Echinococcus multilocularis (EM) into Great Britain (GB) from dogs returning from a 2-week holiday in France. It is carried out a risk assessment focused on the influence of key parameters: the probability of a dog becoming infected whilst it is on holiday, the probability that dog owners do not treat their dogs prior to returning to GB and the probability that treatment time is outside the window period, considering a regulation that indicates that treatment must have been given between 24 to 120 hours before re-entering GB.
-![](https://github.com/lolavc/lolavc_portafolio/blob/main/img/Slide2.png) 
-![](https://github.com/lolavc/lolavc_portafolio/blob/main/img/PlotAllChg.png)
+![](https://github.com/lolavc/lolavc_portafolio/blob/main/img/img_risk/Slide2.png)
+![](https://github.com/lolavc/lolavc_portafolio/blob/main/img/img_risk/PlotAllChg.png)
 
 ### [Predictor Model](https://github.com/lolavc/predictor_model)
 Build a predictor model to evaluate coronary heart disease (CHD), considering potential risk factors. 
