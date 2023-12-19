@@ -11,7 +11,7 @@ A quantitative risk assessment analysis was conducted to determine the risk of i
 ![](https://github.com/lolavc/lolavc.github.io/blob/main/img/imag_risk/Slide2.png)
 ![](https://github.com/lolavc/lolavc.github.io/blob/main/img/imag_risk/PlotAllChg.png)
 
-### [Predictor Model](https://github.com/lolavc/lolavc.github.io/blob/main/reports/Multivariate4gh_vpdf.pdf)
+### [Predictor Model](reports/Multivariate4gh_191223.pdf)
 Build a predictor model to evaluate coronary heart disease (CHD), considering potential risk factors. 
 The dataset used is from a retrospective sample of males from Western Cape, South Africa, which has a high risk of heart disease. 
 The data were collected throughout 2019.
