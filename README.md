@@ -22,4 +22,4 @@ The data were collected throughout 2019.
 Analyse and explore the life expectancy dataset to examine factors that may influence life expectancy across the globe.
 ![](https://github.com/lolavc/lolavc.github.io/blob/main/img/imag_modelling/%E2%80%8EStepwiseGraph.%E2%80%8E001.png)
 ![](https://github.com/lolavc/lolavc.github.io/blob/main/img/imag_modelling/%E2%80%8ECorrelationMatrix.%E2%80%8E001.png)
-theme: jekyll-theme-Slate
+theme: jekyll-theme-midnight
