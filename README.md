@@ -5,14 +5,21 @@
 📫 You can contact me on [Linkedin](www.in/loliett-valdes-castillo-3a1801254)**
 
 ## Here are some of my projects:
+### [Machine Learning Project in Python](https://github.com/lolavc/MLinPython)
+The project investigates the estimation of obesity levels utilizing machine learning methods, focusing on unsupervised and supervised techniques. The dataset used is sourced from an online survey conducted on eating habits and physical conditions in Colombia, Mexico, and Peru (Palechor and Manotas, 2019). The primary objective is to evaluate the performance of unsupervised and supervised models in predicting obesity and to compare their effectiveness.
+
+![](https://github.com/lolavc/MLinPython/blob/main/img/ConfusionMatrixTest.png) ![](https://github.com/lolavc/MLinPython/blob/main/img/ScoresTest.png)
+
 ### [Quantitative risk assessment analysis project](https://github.com/lolavc/risk_analysis)
-A quantitative risk assessment analysis was conducted to determine the risk of importing Echinococcus multilocularis (EM) into Great Britain (GB) from dogs returning from a 2-week holiday in France. It is carried out a risk assessment focused on the influence of key parameters: the probability of a dog becoming infected whilst it is on holiday, the probability that dog owners do not treat their dogs before returning to GB and the probability that treatment time is outside the window period, considering a regulation that indicates that treatment must have been given between 24 to 120 hours before re-entering GB.
+This report details the quantitative risk assessment analysis conducted to evaluate the risk of importing Echinococcus multilocularis (EM) into Great Britain (GB) from dogs returning from a 2-week holiday in France. The analysis focused on key parameters including the probability of a dog becoming infected while on holiday, the likelihood of dog owners not treating their dogs before returning to GB, and the probability that treatment occurs outside the specified window period, considering regulations stipulating treatment between 24 to 120 hours before re-entering GB.
+![](https://github.com/lolavc/risk_analysis/blob/main/img/PlotAllChg.png)
 
 ### [Predictor model project](https://github.com/lolavc/predictor_model)
-Build a predictor model to evaluate coronary heart disease (CHD), considering potential risk factors. 
-The dataset used is from a retrospective sample of males from Western Cape, South Africa, which has a high risk of heart disease. 
-The data were collected throughout 2019.
+The report outlines the process of building a predictor model to evaluate coronary heart disease (CHD) while considering potential risk factors. 
+The dataset utilized originates from a retrospective sample of males residing in Western Cape, South Africa, an area known for its high risk of heart disease. 
+Data collection occurred throughout the year 2019.
 ![](https://github.com/lolavc/predictor_model/blob/main/img/Biplot.jpg) 
 
 ### [Regression modelling project](https://github.com/lolavc/modelling)
-Analyse and explore the life expectancy dataset to examine factors that may influence life expectancy across the globe.
+The report details the process of analysing and exploring the Life Expectancy dataset to examine factors that may influence life expectancy across the globe.
+![](https://github.com/lolavc/modelling/blob/main/img/%E2%80%8ECorrelationMatrix.%E2%80%8E001%20copy.png)
