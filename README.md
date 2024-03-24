@@ -1,6 +1,6 @@
 **👋 Hi, I’m @lolavc.
 👀 I’m interested in applying statistics and data analysis to health and forensics.
-📈 I’m currently studying an MSc in Applied statistics in Data Science
+📈 I’m currently studying an MSc in Applied Statistics with Data Science
 🔭 I’m looking to collaborate on projects in these areas.
 📫 You can contact me on [Linkedin](www.in/loliett-valdes-castillo-3a1801254)**
 
