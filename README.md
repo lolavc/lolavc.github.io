@@ -8,7 +8,7 @@
 ### [Harmful alcohol consumption in Scottish urban and rural contexts](https://github.com/lolavc/AlcoholConsumption-/tree/main)
 There remains a gap in understanding the specific factors contributing to alcohol consumption patterns in rural Scottish communities despite the growing body of research on this issue. To address this gap, this study explores and compares alcohol consumption patterns in Scottish rural and urban areas, focusing on the socio-demographic and lifestyle factors influencing this behaviour. Employing predictive modelling, the research seeks to understand the dynamics of alcohol consumption in rural communities.
 
-<img src="https://github.com/lolavc/AlcoholConsumption-/blob/main/dwu_odds.png" alt="Alt Text" width="500" height="400"><img src="https://github.com/lolavc/AlcoholConsumption-/blob/main/dwr_odds.png" alt="Alt Text" width="500" height="400">
+![](https://github.com/lolavc/AlcoholConsumption-/blob/main/dwu_odds.png) ![](https://github.com/lolavc/AlcoholConsumption-/blob/main/dwr_odds.png)
 
 ### [Machine Learning Project in Python](https://github.com/lolavc/MLinPython)
 The project investigates the estimation of obesity levels utilizing machine learning methods, focusing on unsupervised and supervised techniques. The dataset used is sourced from an online survey conducted on eating habits and physical conditions in Colombia, Mexico, and Peru (Palechor and Manotas, 2019). The primary objective is to evaluate the performance of unsupervised and supervised models in predicting obesity and to compare their effectiveness.
